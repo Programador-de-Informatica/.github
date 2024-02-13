@@ -1,3 +1,7 @@
+<img src="https://scontent.fopo5-1.fna.fbcdn.net/v/t39.30808-6/287699952_5316162198406539_6160541137799695033_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=783fdb&_nc_eui2=AeEx3_I0l1DzZWeT1PJhby1kRQjhcPF-5UdFCOFw8X7lR2-nRdeO9RpQLPGesUOT_K3S_8vlz0kWbP0NaPbN-30P&_nc_ohc=frjb0xlNBigAX-tHqp4&_nc_ht=scontent.fopo5-1.fna&oh=00_AfAXwlh9vkEWDrw_9Eemcd7JN82VRifm3UGVcMsHTQZ4DQ&oe=65D06322" alt="Banner na Escola Profossional do Fundão">
+
+<br>
+
 <h1>Os Meus Módulos Acadêmicos </h1>
 
 <p> Ao longo do meu percurso acadêmico na Escola Profissional do Fundão, apresento de forma organizada todos os trabalhos acadêmicos que desenvolvi, divididos em módulos que abrangem uma ampla gama de disciplinas. Cada módulo representou uma oportunidade única para aprofundar meus conhecimentos e habilidades. </p>
