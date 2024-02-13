@@ -1,7 +1,3 @@
-<img src="./img/Banner.png"/>
-
-<br>
-
 <h1>Os Meus Módulos Acadêmicos </h1>
 
 <p> Ao longo do meu percurso acadêmico na Escola Profissional do Fundão, apresento de forma organizada todos os trabalhos acadêmicos que desenvolvi, divididos em módulos que abrangem uma ampla gama de disciplinas. Cada módulo representou uma oportunidade única para aprofundar meus conhecimentos e habilidades. </p>
