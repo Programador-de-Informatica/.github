@@ -1,4 +1,4 @@
-<img src="https://scontent.fopo5-1.fna.fbcdn.net/v/t39.30808-6/287699952_5316162198406539_6160541137799695033_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=783fdb&_nc_eui2=AeEx3_I0l1DzZWeT1PJhby1kRQjhcPF-5UdFCOFw8X7lR2-nRdeO9RpQLPGesUOT_K3S_8vlz0kWbP0NaPbN-30P&_nc_ohc=frjb0xlNBigAX-tHqp4&_nc_ht=scontent.fopo5-1.fna&oh=00_AfAXwlh9vkEWDrw_9Eemcd7JN82VRifm3UGVcMsHTQZ4DQ&oe=65D06322" alt="Banner na Escola Profossional do Fundão">
+<img src="./img/Banner.png" alt="Banner na Escola Profossional do Fundão">
 
 <br>
 
